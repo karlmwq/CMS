@@ -8,6 +8,7 @@
   <artifactId>cms-parent</artifactId>
   <packaging>pom</packaging>
   
+  <!-- 聚合父类 -->
   <modules>
   	<module>../cms-iis</module>
   	<module>../cms-oos</module>
